@@ -26,7 +26,6 @@ I build backend and full-stack applications with **Java and Spring Boot**, backe
 | Project | Description | Stack |
 |---|---|---|
 | [Spring Boot Student CRUD API](https://github.com/jawad1215/SpringBootCrudApp) | RESTful API with DTOs, validation, soft delete and global exception handling | Java 21, Spring Boot, JPA, MySQL |
-| [ToDo App - Clean Architecture](https://github.com/jawad1215/ToDo_App_CleanArchitecture) | Android app built with Clean Architecture | Kotlin |
 | [ToDo App - Firebase CRUD](https://github.com/jawad1215/ToDoApp_FIrebase_CRUD) | Task management with Firebase Realtime Database | Kotlin, Firebase |
 
 More backend and full-stack projects are on the way.
